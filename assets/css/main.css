@@ -178,7 +178,7 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
-		line-height: normal;
+		line-height: 1;
 
 	}
 
