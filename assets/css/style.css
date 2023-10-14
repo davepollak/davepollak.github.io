@@ -29,6 +29,10 @@
     /* Hover Effect */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition for background and text color */
 }
+/* centered on page */
+.container {
+    text-align: center; /* Center the button within the container */
+}
 
 .read-more-btn:hover {
     /* Hover Styles */
