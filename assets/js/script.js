@@ -1,5 +1,5 @@
 document.getElementById('moreBtn').addEventListener('click', function() {
-    var textElement = document.getElementById('Text');
+    var textElement = document.getElementById('text');
     var btnElement = document.getElementById('moreBtn');
 
     if (textElement.classList.contains('hidden')) {
