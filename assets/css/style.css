@@ -7,6 +7,7 @@
 
 .read-more-btn {
     /* Text Styling */
+    display: flex;
     color: black; /* Text color */
     font-size: 16px; /* Text size */
     text-align: center; /* Centering text */
